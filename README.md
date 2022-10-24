@@ -1,4 +1,4 @@
-![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://avatars.githubusercontent.com/u/55638889?s=40&v=4 "")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://avatars.githubusercontent.com/u/55638889?s=40&v=4 "")
 
 # About
 <dd>Alex is a rising senior at Boston University Academy. He is passionate about computer science, particularly artificial intelligence and its application to biomedical sciences. He carried out independent research project on modeling COVID-19 spread which won an Honorable Mention by the Davision Fellowship for Gifted Students. He has submitted a paper from the work to a peer-reviewed journal. He has co-authored two book chapters. For extracuricular activites, Alex plays Trombo and is an A fencer. </dd>
