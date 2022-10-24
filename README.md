@@ -1,5 +1,5 @@
 # About
-<dd>Alex is a rising senior at Boston Academy. He is passionate about computer science, particularly artificial intelligence and its application to biomedical sciences. He carried out independent research project on modeling COVID-19 spread which won an Honorable Mention by the Davision Fellowship for Gifted Students. He has submitted a paper from the work to a peer-reviewed journal. He has co-authored two book chapters. For extracuricular activites, Alex plays Trombo and is an A fencer. </dd>
+<dd>Alex is a rising senior at Boston University Academy. He is passionate about computer science, particularly artificial intelligence and its application to biomedical sciences. He carried out independent research project on modeling COVID-19 spread which won an Honorable Mention by the Davision Fellowship for Gifted Students. He has submitted a paper from the work to a peer-reviewed journal. He has co-authored two book chapters. For extracuricular activites, Alex plays Trombo and is an A fencer. </dd>
 
 # Publications
 1. [A SEIRD+V Model for the Effect of Vaccination and Social Distancing on SARS-CoV-2 Infection and Mortality]()
