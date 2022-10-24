@@ -1,9 +1,9 @@
 # About
 
 # Publications
-1. [A SEIRD\+V Model for the Effect of Vaccination and Social Distancing on SARS\-CoV\-2 Infection and Mortality] ()
+1. [A SEIRD+V Model for the Effect of Vaccination and Social Distancing on SARS-CoV-2 Infection and Mortality]()
 2. [Leung, L. Lee, K. Jin, A. (2022), “Organizing a Successful Practice and Considering Tax and Estate Planning,” Business of Otolaryngology, Otolaryngologic Clinics]()
-3. [Patel, A. Jin, A. Lee, M. Lee, K.  “AI and Information Technology, Pros, Cons, and Opportunities,” In Essential Rational Healthcare Economics and Its Environment. To be published by Nova Science Publishers in Spring 2023]()
+3. [Patel, A. Jin, A. Lee, M. Lee, K. (2023) “AI and Information Technology, Pros, Cons, and Opportunities,” In Essential Rational Healthcare Economics and Its Environment. To be published by Nova Science Publishers in Spring 2023]()
 
 # Cool Stuff
 1. [Davidson Fellows presentation](https://www.youtube.com/watch?v=lC3DmKuByLg) 
