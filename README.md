@@ -11,12 +11,12 @@
 
 ### Advanced STEM Courses
 
-Have Taken: 
+* Have Taken: 
 Calculus 1, Calculus 2, Multivariate Calculus, Differential Equations (MA 226 BU), Introduction to Computer Science 1 (CS 111 BU), Linear Algebra (CS 132 BU), Biology 107 and 108 (BU), and second-year college Statistics Through R (S&DS S230e) (Yale) \ \
 
-Fall 2022 (Current): Discrete Math (MA293 BU), Principle of Physics (PY251 BU), Microeconomics (EC101 BU) \ \
+* Fall 2022 (Current): Discrete Math (MA293 BU), Principle of Physics (PY251 BU), Microeconomics (EC101 BU) \ \
 
-Spring 2022 (Planned): Graph Theory (MA433 BU), Computer Systems and C (CS210 BU), Neurotoxins in Biology, Medicine and More (NE349 BU)
+* Spring 2023 (Planned): Graph Theory (MA433 BU), Computer Systems and C (CS210 BU), Neurotoxins in Biology, Medicine and More (NE349 BU)
 
 ### Programming Languages
 
@@ -45,7 +45,7 @@ Dr. Ooi, charted his own Aeneid, beginning in faraway Penang, of arriving in Ame
 * [A Buddhist Heracles in Boston – Expanded Research](https://github.com/bibjin/bibjin.github.io/blob/main/Buddhist%20Heracles%20in%20Boston.pdf) \
 My 11th grade history project on the Votive Stele at the Gardner Museum was an exercise in connecting the classical Greco-Roman world, the South Asian world, and the Chinese world. After submitting the paper, I have continued working on expanding the sections on Gilded Age America,  Orientalism, the Gardner Museum, and contemporary art-collecting/transporting practice, while also reworking my argument on Buddhist iconography. 
 
-*( Latin paper
+* Latin paper
 
 ### Fencing 
 video - add notable opponents name, school, A rating. BUA fencing team picture. Add Cavalier Team picture. 
