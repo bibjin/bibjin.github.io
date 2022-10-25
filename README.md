@@ -10,6 +10,11 @@
 
 # Cool Stuff
 1. [Davidson Fellows presentation](https://www.youtube.com/watch?v=lC3DmKuByLg) 
-2. [From Penang To Vietnam: Interview with Dr. Seng Kar Ooi]()
-3. [An American Dream](https://drive.google.com/file/d/1c3BA7XlC9cNjSyosM-scYkhrYb-i7DrN/view)
-4. [A Buddhist Heracles in Boston – Expanded Research](https://github.com/bibjin/bibjin.github.io/blob/main/Buddhist%20Heracles%20in%20Boston.pdf)
+2. [From Penang To Vietnam: Interview with Dr. Seng Kar Ooi](https://github.com/bibjin/bibjin.github.io/blob/main/Alex%20Jin%20-%20From%20Penang%20To%20Vietnam.pdf)
+ <dd> 
+...Dr. Ooi, charted his own Aeneid, beginning in faraway Penang, of arriving in America – and establishing himself here, against the contemporary currents of racial prejudice, as a surgeon. 
+
+...Each of their stories highlighted a tangential yet meaningful contribution to America. History is churned through all the people that live through it with all of their distinctive experiences as imprints upon civilization.
+  </dd>
+4. [An American Dream](https://drive.google.com/file/d/1c3BA7XlC9cNjSyosM-scYkhrYb-i7DrN/view)
+5. [A Buddhist Heracles in Boston – Expanded Research](https://github.com/bibjin/bibjin.github.io/blob/main/Buddhist%20Heracles%20in%20Boston.pdf)
