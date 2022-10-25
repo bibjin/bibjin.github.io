@@ -35,13 +35,11 @@ For my 11th grade English class. Composition and Cartoon by Alex Jin
 * Compositions - English, history. 
 * Selected Music Awards
 
-  *Lead Trombonist, New England Conservatory Youth Jazz Orchestra  
+    * Lead Trombonist, New England Conservatory Youth Jazz Orchestra  
 
-  *Lead Trombonist, Massachusetts Music Educators Associations All-State Jazz Band, 2020
+    * Lead Trombonist, Massachusetts Music Educators Associations All-State Jazz Band, 2020
 
-  *Lead Trombonist, Boston Latin School Big Band, 10th Annual Charles Mingus Festival and National High School Competition, 1st Place, 2018
-
- 
+    * Lead Trombonist, Boston Latin School Big Band, 10th Annual Charles Mingus Festival and National High School Competition, 1st Place, 2018
 
 ### Humanities
 
