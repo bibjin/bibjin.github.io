@@ -1,22 +1,15 @@
 ![alt text](https://avatars.githubusercontent.com/u/55638889?s=400&u=3349f9b880f34dd93ae8b2058de9ddcc3a2368a9&v=4)
 
-# About
+## About
 <dd>Alex is a rising senior at Boston University Academy. He is passionate about computer science, particularly artificial intelligence, and its applications to biomedical sciences.  In his free time, he is a jazz trombonist, fencer, cartoon artist, and a student of history.  
 </dd>
 
-# Publications
+## Publications
 1. [A SEIRD+V Model for the Effect of Vaccination and Social Distancing on SARS-CoV-2 Infection and Mortality]()
 2. [Leung, L. Lee, K. Jin, A. (2022), “Organizing a Successful Practice and Considering Tax and Estate Planning,” In *Business of Otolaryngology, Otolaryngologic Clinics*]()
 3. [Patel, A. Jin, A. Lee, M. Lee, K. (2023) “AI and Information Technology, Pros, Cons, and Opportunities,” In *Essential Rational Healthcare Economics and Its Environment. To be published by Nova Science Publishers in Spring 2023*]()
 
-# Cool Stuff
-1. [Davidson Fellows presentation](https://www.youtube.com/watch?v=lC3DmKuByLg)\
-I am happy that my covid research project got Honorable Mention.\
-[2022 Davidson Fellows Honor Roll](https://www.davidsongifted.org/gifted-programs/fellows-scholarship/fellows/current-and-past-fellows/2022-fellows/)
-
-
-
-# Advanced STEM Courses
+## Advanced STEM Courses
 
 Have Taken: 
 Calculus 1, Calculus 2, Multivariate Calculus, Differential Equations (MA 226 BU), Introduction to Computer Science 1 (CS 111 BU), Linear Algebra (CS 132 BU), Biology 107 and 108 (BU), and second-year college Statistics Through R (S&DS S230e) (Yale) \ \
@@ -25,22 +18,22 @@ Fall 2022 (Current): Discrete Math (MA293 BU), Principle of Physics (PY251 BU), 
 
 Spring 2022 (Planned): Graph Theory (MA433 BU), Computer Systems and C (CS210 BU), Neurotoxins in Biology, Medicine and More (NE349 BU)
 
-# Programming Languages
+## Programming Languages
 
 Python, Java, C, R, Matlab
 
-# Research & Entrepreneurial 
+## Research & Entrepreneurial 
 1. [Davidson Fellows presentation](https://www.youtube.com/watch?v=lC3DmKuByLg)\
 I am happy that my covid research project got Honorable Mention.\
 [2022 Davidson Fellows Honor Roll](https://www.davidsongifted.org/gifted-programs/fellows-scholarship/fellows/current-and-past-fellows/2022-fellows/)
 
-# Music 
+## Music 
 
 Music video - add name, school. NEC. thanks page. 
 
 Compositions - English, history. 
 
-# Humanities
+## Humanities
 
 1. Chinese mini lectures 200+ 
 
@@ -55,5 +48,5 @@ My 11th grade history project on the Votive Stele at the Gardner Museum was an e
 
 5. Latin paper
 
-# Fencing 
+## Fencing 
 video - add notable opponents name, school, A rating. BUA fencing team picture. Add Cavalier Team picture. 
