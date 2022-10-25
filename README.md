@@ -12,7 +12,7 @@
 1. [Davidson Fellows presentation](https://www.youtube.com/watch?v=lC3DmKuByLg) 
 2. [From Penang To Vietnam: Interview with Dr. Seng Kar Ooi](https://github.com/bibjin/bibjin.github.io/blob/main/Alex%20Jin%20-%20From%20Penang%20To%20Vietnam.pdf)
  <dd> 
-Dr. Ooi, charted his own Aeneid, beginning in faraway Penang, of arriving in America – and establishing himself here, against the contemporary currents of racial prejudice, as a surgeon. 
+Dr. Ooi, charted his own Aeneid, beginning in faraway Penang, of arriving in America – and establishing himself here, against the contemporary currents of racial prejudice, as a surgeon. <br/>
 
 Each of their stories highlighted a tangential yet meaningful contribution to America. History is churned through all the people that live through it with all of their distinctive experiences as imprints upon civilization.
   </dd>
