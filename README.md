@@ -12,9 +12,9 @@
 ### Advanced STEM Courses
 
 * Have Taken: 
-Calculus 1, Calculus 2, Multivariate Calculus, Differential Equations (MA 226 BU), Introduction to Computer Science 1 (CS 111 BU), Linear Algebra (CS 132 BU), Biology 107 and 108 (BU), and second-year college Statistics Through R (S&DS S230e) (Yale) \ \
+Calculus 1, Calculus 2, Multivariate Calculus, Differential Equations (MA 226 BU), Introduction to Computer Science 1 (CS 111 BU), Linear Algebra (CS 132 BU), Biology 107 and 108 (BU), and second-year college Statistics Through R (S&DS S230e) (Yale) 
 
-* Fall 2022 (Current): Discrete Math (MA293 BU), Principle of Physics (PY251 BU), Microeconomics (EC101 BU) \ \
+* Fall 2022 (Current): Discrete Math (MA293 BU), Principle of Physics (PY251 BU), Microeconomics (EC101 BU) 
 
 * Spring 2023 (Planned): Graph Theory (MA433 BU), Computer Systems and C (CS210 BU), Neurotoxins in Biology, Medicine and More (NE349 BU)
 
