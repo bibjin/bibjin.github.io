@@ -33,6 +33,15 @@ For my 11th grade English class. Composition and Cartoon by Alex Jin
 * Music video - add name, school. NEC. thanks page. 
 
 * Compositions - English, history. 
+* Selected Music Awards
+
+  *Lead Trombonist, New England Conservatory Youth Jazz Orchestra  
+
+  *Lead Trombonist, Massachusetts Music Educators Associations All-State Jazz Band, 2020
+
+  *Lead Trombonist, Boston Latin School Big Band, 10th Annual Charles Mingus Festival and National High School Competition, 1st Place, 2018
+
+ 
 
 ### Humanities
 
@@ -48,4 +57,14 @@ My 11th grade history project on the Votive Stele at the Gardner Museum was an e
 * Latin paper
 
 ### Fencing 
-video - add notable opponents name, school, A rating. BUA fencing team picture. Add Cavalier Team picture. 
+* video - add notable opponents name, school, A rating. BUA fencing team picture. Add Cavalier Team picture. 
+
+* Selected Fencing Awards: A (2021)
+
+  * National Championships & Junior Olympic Championships Junior Teams 4th Place, Division IA Men’s Epee 24th Place, 2021
+
+  * Neil Lazar Div1A/Div2/Vet ROC Division IA Men’s Epee, 3rd Place, 2021
+
+  * Massachusetts High School State Championships 2nd Place, 2020
+
+  * RPI Fall Open Tournament Men’s Epee 1st place, 2019
