@@ -26,7 +26,7 @@ Python, Java, C, R, Matlab
 * [Davidson Fellows presentation](https://www.youtube.com/watch?v=lC3DmKuByLg)\
 I am happy that my covid research project got Honorable Mention.\
 [2022 Davidson Fellows Honor Roll](https://www.davidsongifted.org/gifted-programs/fellows-scholarship/fellows/current-and-past-fellows/2022-fellows/)
-* VOICE A.I. IN DIFFERENTIAL DIAGNOSIS FOR SCHEDULING 
+* VOICE A.I. IN DIFFERENTIAL DIAGNOSIS FOR SCHEDULING \
 We created an artificial intelligence-based app that advises patients about appointment scheduling through Amazon Alexa. Engineering work by Blue Jay Technology Partners. Medical advice by Dr. K. J. Lee. I provided marketing analysis and competition analysis. 
 
 ### Music 
