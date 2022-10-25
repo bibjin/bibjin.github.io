@@ -28,10 +28,11 @@ I am happy that my covid research project got Honorable Mention.\
 [2022 Davidson Fellows Honor Roll](https://www.davidsongifted.org/gifted-programs/fellows-scholarship/fellows/current-and-past-fellows/2022-fellows/)
 
 ### Music 
+3. [An American Dream](https://drive.google.com/file/d/1c3BA7XlC9cNjSyosM-scYkhrYb-i7DrN/view) \
+For my 11th grade English class. Composition and Cartoon by Alex Jin
+2. Music video - add name, school. NEC. thanks page. 
 
-Music video - add name, school. NEC. thanks page. 
-
-Compositions - English, history. 
+3. Compositions - English, history. 
 
 ### Humanities
 
@@ -41,8 +42,6 @@ Compositions - English, history.
 A cartoon story by Alex Jin. 11th grade history project \
 Dr. Ooi, charted his own Aeneid, beginning in faraway Penang, of arriving in America – and establishing himself here, against the contemporary currents of racial prejudice, as a surgeon.
 
-3. [An American Dream](https://drive.google.com/file/d/1c3BA7XlC9cNjSyosM-scYkhrYb-i7DrN/view) \
-For my 11th grade English class. Composition and Cartoon by Alex Jin
 4. [A Buddhist Heracles in Boston – Expanded Research](https://github.com/bibjin/bibjin.github.io/blob/main/Buddhist%20Heracles%20in%20Boston.pdf) \
 My 11th grade history project on the Votive Stele at the Gardner Museum was an exercise in connecting the classical Greco-Roman world, the South Asian world, and the Chinese world. After submitting the paper, I have continued working on expanding the sections on Gilded Age America,  Orientalism, the Gardner Museum, and contemporary art-collecting/transporting practice, while also reworking my argument on Buddhist iconography. 
 
