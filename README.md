@@ -28,7 +28,7 @@ I am happy that my covid research project got Honorable Mention.\
 [2022 Davidson Fellows Honor Roll](https://www.davidsongifted.org/gifted-programs/fellows-scholarship/fellows/current-and-past-fellows/2022-fellows/)
 
 ### Music 
-3. [An American Dream](https://drive.google.com/file/d/1c3BA7XlC9cNjSyosM-scYkhrYb-i7DrN/view) \
+1. [An American Dream](https://drive.google.com/file/d/1c3BA7XlC9cNjSyosM-scYkhrYb-i7DrN/view) \
 For my 11th grade English class. Composition and Cartoon by Alex Jin
 2. Music video - add name, school. NEC. thanks page. 
 
