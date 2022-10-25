@@ -16,6 +16,5 @@ Dr. Ooi, charted his own Aeneid, beginning in faraway Penang, of arriving in Ame
 
 Each of their stories highlighted a tangential yet meaningful contribution to America. History is churned through all the people that live through it with all of their distinctive experiences as imprints upon civilization.
   </dd>
-4. [An American Dream](https://drive.google.com/file/d/1c3BA7XlC9cNjSyosM-scYkhrYb-i7DrN/view)
-
-5. [A Buddhist Heracles in Boston – Expanded Research](https://github.com/bibjin/bibjin.github.io/blob/main/Buddhist%20Heracles%20in%20Boston.pdf)
+3. [An American Dream](https://drive.google.com/file/d/1c3BA7XlC9cNjSyosM-scYkhrYb-i7DrN/view)
+4. [A Buddhist Heracles in Boston – Expanded Research](https://github.com/bibjin/bibjin.github.io/blob/main/Buddhist%20Heracles%20in%20Boston.pdf)
