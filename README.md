@@ -20,7 +20,7 @@ Calculus 1, Calculus 2, Multivariate Calculus, Differential Equations (MA 226 BU
 
 ### Programming Languages
 
-Python, Java, C, R, Matlab
+Python, Java, C++, R, Matlab
 
 ### Research & Entrepreneurial 
 * [Davidson Fellows presentation](https://www.youtube.com/watch?v=lC3DmKuByLg)\
