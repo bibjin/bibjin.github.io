@@ -9,7 +9,7 @@
 * [Jin, A., Sharifi, H., (2022), A SEIRD+V Model for the Effect of Vaccination and Social Distancing on SARS-CoV-2 Infection and Mortality. Biomed J Sci & Tech Res 46(5)](https://biomedres.us/pdfs/BJSTR.MS.ID.007413.pdf)
 * [Leung, L. Lee, K. Jin, A. (2022), “Organizing a Successful Practice and Considering Tax and Estate Planning” In *Business of Otolaryngology, Otolaryngologic Clinics*](https://www.sciencedirect.com/science/article/abs/pii/S0030666521001705?via%3Dihub)
 * Patel, A. Jin, A. Lee, M. Lee, K. (2023) “AI and Information Technology, Pros, Cons, and Opportunities” In *Essential Rational Healthcare Economics and Its Environment. To be published by Nova Science Publishers in Spring 2023*
-* Jin, A., 2016, Courage in a Robotics Competition. In *Courage of Children (25th ed.)* \
+* [Jin, A., 2016, Courage in a Robotics Competition. In *Courage of Children (25th ed.)* pp66-69](https://paperzz.com/doc/9271255/the-courage-of-children--boston-and-beyond--2016) \
 (Chosen from 2000+ submissions, awarded by Boston Mayor Walsh)
 
 ### Advanced STEM Courses
