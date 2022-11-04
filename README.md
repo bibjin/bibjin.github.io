@@ -61,6 +61,7 @@ My 11th grade history project on the Votive Stele at the Gardner Museum was an e
 
 ### Fencing 
 * video - add notable opponents name, school, A rating. BUA fencing team picture. Add Cavalier Team picture. 
+[Fencing Video](https://www.youtube.com/watch?v=Tt_pK1_Btr0)
 
 * Selected Fencing Awards: A (2021)
 
