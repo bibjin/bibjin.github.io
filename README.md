@@ -1,4 +1,5 @@
-![alt text](https://avatars.githubusercontent.com/u/55638889?s=400&u=3349f9b880f34dd93ae8b2058de9ddcc3a2368a9&v=4)
+###![alt text](https://avatars.githubusercontent.com/u/55638889?s=400&u=3349f9b880f34dd93ae8b2058de9ddcc3a2368a9&v=4)
+<img src="https://your-image-url.type](https://avatars.githubusercontent.com/u/55638889?s=400&u=3349f9b880f34dd93ae8b2058de9ddcc3a2368a9&v=4" width="100" height="100">
 
 ### About
 <dd>Alex is a rising senior at Boston University Academy. He is passionate about computer science, particularly artificial intelligence, and its applications to biomedical sciences.  In his free time, he is a jazz trombonist, fencer, cartoon artist, and a student of history.  
