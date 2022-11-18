@@ -27,7 +27,7 @@ Python, Java, C++, R, Matlab
 
 ### Research & Entrepreneurial 
 * [Davidson Fellows presentation](https://www.youtube.com/watch?v=lC3DmKuByLg)\
-I am happy that my covid research project got Honorable Mention.\
+I am happy that my COVID research project got an Honorable Mention.\
 [2022 Davidson Fellows Honor Roll](https://www.davidsongifted.org/gifted-programs/fellows-scholarship/fellows/current-and-past-fellows/2022-fellows/)
 * Voice A.I. In Differential Diagnosis for Scheduling \
 We created an artificial intelligence-based app that advises patients about appointment scheduling through Amazon Alexa. Engineering work by Blue Jay Technology Partners. Medical advice by Dr. K. J. Lee. I provided marketing analysis and competition analysis. 
@@ -60,8 +60,7 @@ My 11th grade history project on the Votive Stele at the Gardner Museum was an e
 * Latin paper
 
 ### Fencing 
-* video - add notable opponents name, school, A rating. BUA fencing team picture. Add Cavalier Team picture. 
-[Fencing Video](https://www.youtube.com/watch?v=Tt_pK1_Btr0)
+* [Fencing Video](https://www.youtube.com/watch?v=Tt_pK1_Btr0)
 
 * Selected Fencing Awards: A (2021)
 
