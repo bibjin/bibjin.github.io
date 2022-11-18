@@ -35,7 +35,7 @@ We created an artificial intelligence-based app that advises patients about appo
 ### Music 
 * [An American Dream](https://drive.google.com/file/d/1c3BA7XlC9cNjSyosM-scYkhrYb-i7DrN/view) \
 For my 11th grade English class. Composition and Cartoon by Alex Jin
-* Music video - add name, school. NEC. thanks page. 
+* Music page: https://www.instagram.com/jinplaysmusic/ 
 
 * Compositions - English, history. 
 * Selected Music Awards
