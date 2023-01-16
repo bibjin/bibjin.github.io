@@ -16,7 +16,7 @@
 * Davidson Fellows 2022, Honorable Mention \
 [2022 Davidson Fellows Honor Roll](https://www.davidsongifted.org/gifted-programs/fellows-scholarship/fellows/current-and-past-fellows/2022-fellows/)
 * Regeneron Science Talent Search, 2023, Scholar \
-[Congratulations to the 2023 Regeneron STS Scholars!] (https://www.societyforscience.org/regeneron-sts/2023-scholars/) \
+[Congratulations to the 2023 Regeneron STS Scholars] (https://www.societyforscience.org/regeneron-sts/2023-scholars/) \
 
 ### Advanced STEM Courses
 
