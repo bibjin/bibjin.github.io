@@ -16,7 +16,7 @@
 * Davidson Fellows 2022, Honorable Mention \
 [2022 Davidson Fellows Honor Roll](https://www.davidsongifted.org/gifted-programs/fellows-scholarship/fellows/current-and-past-fellows/2022-fellows/)
 * Regeneron Science Talent Search, 2023, Scholar \
-[Congratulations to the 2023 Regeneron STS Scholars] (https://www.societyforscience.org/regeneron-sts/2023-scholars/) \
+[Congratulations to the 2023 Regeneron STS Scholars](https://www.societyforscience.org/regeneron-sts/2023-scholars/) \
 
 ### Advanced STEM Courses
 
@@ -79,4 +79,4 @@ My 11th grade history project on the Votive Stele at the Gardner Museum was an e
     * RPI Fall Open Tournament Men’s Epee 1st place, 2019
 
 ### CV 
-[Activity Resume] (https://github.com/bibjin/bibjin.github.io/blob/main/Alex%20Jin%20BU%20Academy%20%20Activity%20Resume%20%20With%20Research%20Abstract%20Back.docx-2.pdf)
+[Activity Resume](https://github.com/bibjin/bibjin.github.io/blob/main/Alex%20Jin%20BU%20Academy%20%20Activity%20Resume%20%20With%20Research%20Abstract%20Back.docx-2.pdf)
