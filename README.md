@@ -12,6 +12,12 @@
 * [Jin, A., 2016, Courage in a Robotics Competition. In *Courage of Children (25th ed.)* pp66-69](https://paperzz.com/doc/9271255/the-courage-of-children--boston-and-beyond--2016) \
 (Chosen from 2000+ submissions, awarded by Boston Mayor Walsh)
 
+### Awards
+* Davidson Fellows 2022, Honorable Mention \
+[2022 Davidson Fellows Honor Roll](https://www.davidsongifted.org/gifted-programs/fellows-scholarship/fellows/current-and-past-fellows/2022-fellows/)
+* Regeneron Science Talent Search, 2023, Scholar \
+[Congratulations to the 2023 Regeneron STS Scholars!] (https://www.societyforscience.org/regeneron-sts/2023-scholars/) \
+
 ### Advanced STEM Courses
 
 * Have Taken: 
@@ -71,3 +77,6 @@ My 11th grade history project on the Votive Stele at the Gardner Museum was an e
     * Massachusetts High School State Championships 2nd Place, 2020
 
     * RPI Fall Open Tournament Men’s Epee 1st place, 2019
+
+### CV 
+[Activity Resume] (https://github.com/bibjin/bibjin.github.io/blob/main/Alex%20Jin%20BU%20Academy%20%20Activity%20Resume%20%20With%20Research%20Abstract%20Back.docx-2.pdf)
