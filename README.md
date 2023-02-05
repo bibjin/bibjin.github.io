@@ -29,12 +29,12 @@ Calculus 1, Calculus 2, Multivariate Calculus, Differential Equations (MA 226 BU
 
 Python, Java, C++, R, Matlab
 
-### Research & Entrepreneurial 
+### Research & Entrepreneurship
 * [Davidson Fellows presentation](https://www.youtube.com/watch?v=lC3DmKuByLg)\
 Awarded an Honorable Mention~\
-[2022 Davidson Fellows Honor Roll](https://www.davidsongifted.org/gifted-programs/fellows-scholarship/fellows/current-and-past-fellows/2022-fellows/)
 * Voice A.I. In Differential Diagnosis for Scheduling \
 We created an artificial intelligence-based app that advises patients about appointment scheduling through Amazon Alexa. Engineering work by Blue Jay Technology Partners. Medical advice by Dr. K. J. Lee. I provided marketing analysis and competition analysis. 
+[Essential Health Demo](https://www.youtube.com/watch?v=n3uoTciLOko)
 
 ### Music 
 * [An American Dream](https://drive.google.com/file/d/1c3BA7XlC9cNjSyosM-scYkhrYb-i7DrN/view) \
