@@ -31,7 +31,7 @@ Python, Java, C++, R, Matlab
 
 ### Research & Entrepreneurship
 * [Davidson Fellows presentation](https://www.youtube.com/watch?v=lC3DmKuByLg)\
-Awarded an Honorable Mention~\
+Awarded an Honorable Mention~
 * [Voice A.I. In Differential Diagnosis for Scheduling](https://www.youtube.com/watch?v=n3uoTciLOko) \
 We created an artificial intelligence-based app that advises patients about appointment scheduling through Amazon Alexa. Engineering work by Blue Jay Technology Partners. Medical advice by Dr. K. J. Lee. I provided marketing analysis and competition analysis. 
 
