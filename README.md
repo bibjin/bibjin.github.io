@@ -25,7 +25,7 @@
 * Have Taken: 
 Calculus 1, Calculus 2, Multivariate Calculus, Differential Equations (MA 226 BU), Introduction to Computer Science 1 (CS 111 BU), Linear Algebra (CS 132 BU), Biology 107 and 108 (BU), Discrete Math (MA293 BU), Principle of Physics (PY251 BU), Microeconomics (EC101 BU), and second-year college Statistics through R (S&DS S230e) (Yale).
 
-* Spring 2023 (Current): Graph Theory (MA433 BU), Algorithms for Data Science (DS320 BU), Introduction to Neuroscience (NE101 BU)
+* Spring 2023 (Current): Graph Theory (BU CAS MA433), Algorithms for Data Science (BU CDS DS320), General Psychology (BU CAS PS101), Writing, Research, & Inquiry with Creativity/Innovation — The Ethical Imagination (BU CAS WR153 P1).
 
 ### Programming Languages
 
