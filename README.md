@@ -16,8 +16,10 @@
 * Davidson Fellows 2022, Honorable Mention \
 [2022 Davidson Fellows Honor Roll](https://www.davidsongifted.org/gifted-programs/fellows-scholarship/fellows/current-and-past-fellows/2022-fellows/)
 * Regeneron Science Talent Search, 2023, Scholar \
-[Congratulations to the 2023 Regeneron STS Scholars](https://www.societyforscience.org/regeneron-sts/2023-scholars/) 
-
+[Congratulations to the 2023 Regeneron STS Scholars](https://www.societyforscience.org/regeneron-sts/2023-scholars/)
+* Boston University Academy Classics Declamation Contest 2019 — Sole Latin Winner
+* National Latin Exams (Latin III and IV Poetry, 2019-2020 and 2020-2021), 39 (Gold) and 40 (Perfect)
+ 
 ### Advanced STEM Courses
 
 * Have Taken: 
