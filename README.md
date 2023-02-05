@@ -80,4 +80,4 @@ My 11th grade history project on the Votive Stele at the Gardner Museum was an e
     * RPI Fall Open Tournament Men’s Epee 1st place, 2019
 
 ### CV 
-[Activity Resume](https://github.com/bibjin/bibjin.github.io/blob/main/Alex%20Jin%20BU%20Academy%20%20Activity%20Resume%20%20With%20Research%20Abstract%20Back.docx-2.pdf)
+[Activity Resume](https://github.com/bibjin/bibjin.github.io/blob/main/Alex%20Jin%20BU%20Academy%20Activity%20Resume%20With%20Research%20Abstract%20Back.docx.pdf)
