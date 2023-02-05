@@ -33,7 +33,7 @@ Python, Java, C++, R, Matlab
 * [Davidson Fellows presentation](https://www.youtube.com/watch?v=lC3DmKuByLg)\
 Awarded an Honorable Mention from the 2022 Davidson Fellowship and Scholar recognition from the 2023 Regeneron Science Talent Search~
 * [Voice A.I. In Differential Diagnosis for Scheduling](https://www.youtube.com/watch?v=n3uoTciLOko) \
-We created an artificial intelligence-based app that advises patients about appointment scheduling through Amazon Alexa. Engineering work by Blue Jay Technology Partners. Medical advice by Dr. K. J. Lee. I provided marketing analysis and competition analysis. 
+We created an artificial intelligence-based app that advises patients about appointment scheduling through Amazon Alexa. Engineering work by Bluefin Technology Partners. Medical advice by Dr. K. J. Lee. I provided marketing analysis and competition analysis. 
 
 ### Music 
 * [An American Dream](https://drive.google.com/file/d/1c3BA7XlC9cNjSyosM-scYkhrYb-i7DrN/view) \
